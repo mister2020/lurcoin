@@ -1,0 +1,2 @@
+# lurcoin
+test
